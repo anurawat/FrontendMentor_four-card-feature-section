@@ -24,14 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot/screenshot.jpg)
+![](./images/screenshot.jpg)
 
 
 ### Links
 
-- Solution URL: https://github.com/anurawat/FrontendMentor_single-price-grid
-- Live Site URL: https://anurawat.github.io/FrontendMentor_single-price-grid/
-
+- Solution URL: https://github.com/anurawat/FrontendMentor_four-card-feature-section
+- Live Site URL: https://anurawat.github.io/FrontendMentor_four-card-feature-section/
 ## My process
 
 ### Built with
